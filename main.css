@@ -1,0 +1,93 @@
+body {
+    background-color: #62B1F6;
+}
+
+img {
+    display: block;
+    height: 35px;
+    width: auto;
+    margin: auto;
+    margin-top: 35px;
+}
+
+form {
+    width: 400px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 35px;
+    height: auto;
+    border-radius: 3px;
+}
+
+legend {
+    font-family: 'Open Sans', sans-serif;
+    color: gray;
+    font-weight: 300;
+    font-size: 37px;
+    margin: 0 auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+label {
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 41px;
+}
+
+input {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    padding: 15px;
+    width: 320px;
+    height: 55px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #D3D3D3;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+button {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 23px;
+    color: white;
+    padding: 10px;
+    width: 320px;
+    height: 55px;
+    display: block;
+    margin: auto;
+    background-color: #4CAF4C;
+    border: 2px solid #4CAF4C;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: green;
+    border: 2px solid green;
+}
+
+a.forgot {
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    padding-bottom: 35px;
+    color: gray;
+}
+
+.login {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    color: white;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+}
